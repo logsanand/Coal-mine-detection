@@ -1,4 +1,4 @@
-# coal-mine-detection-
+# coal-mine-detection
 coal mine detection using image patches with deep learning models
 Coal mine image patches have been prepared with Sentinel-2 images
 Two land use/landcover layers have been created as Coal and No Coal mines to classify the image patches.
